@@ -7,22 +7,22 @@ after download the files , make sure that the ueditor folder is outside other fi
 
 example:
 
-zms
-  --backend
-      --codeception.yml
-      ......
-  --common
-      --config
-      --widgets
-      ......
-  --LICENSE
-  --README.md
-  --requirements.php
+zms       
+  --backend       
+      --codeception.yml       
+      ......       
+  --common       
+      --config       
+      --widgets      
+      ......    
+  --LICENSE    
+  --README.md    
+  --requirements.php    
 
-ueditor
-  --php
-    --upload
-      --image
+ueditor    
+  --php    
+    --upload    
+      --image    
        
        
        
