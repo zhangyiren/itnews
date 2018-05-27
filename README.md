@@ -8,12 +8,12 @@ after download the files , make sure that the ueditor folder is outside other fi
 example:
 
 zms       
-  --backend       
-  --codeception.yml       
-  ......       
-  --common       
-      --config       
-      --widgets      
+  &emsp;&emsp;--backend       
+  &emsp;&emsp;--codeception.yml       
+  &emsp;&emsp;&emsp;&emsp;......       
+  &emsp;&emsp;--common       
+  &emsp;&emsp;--config       
+  &emsp;&emsp;--widgets      
       ......    
   --LICENSE    
   --README.md    
