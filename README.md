@@ -25,9 +25,7 @@ ueditor
   &emsp;&emsp;&emsp;&emsp;--upload    
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;--image     
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;--20170701     
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;--3456.jpg     
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;--4220.jpg      
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;--1268.jpg      
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;--3456.jpg          
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;......
        
        
