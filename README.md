@@ -9,8 +9,8 @@ example:
 
 zms       
   --backend       
-      --codeception.yml       
-      ......       
+  --codeception.yml       
+  ......       
   --common       
       --config       
       --widgets      
