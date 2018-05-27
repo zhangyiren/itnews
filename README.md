@@ -30,7 +30,7 @@ ueditor
        
        
        
-       
+# visit url          
 front : http://your_domain.com/your_folder/news/web/index.php       
 backend : http://your_domain.com/your_folder/backend/web/index.php
 
