@@ -1,5 +1,5 @@
 # itnews
-base on yii2, to share new technology informations and funs..., you can use it to build your blog, cms, etc...
+base on yii2, to share new technology informations and funs..., you can use it to build your own blog, web cms, etc...
 
 
 # how to 
