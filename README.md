@@ -1,4 +1,4 @@
-# itnews
+# about itnews
 base on yii2, to share new technology informations and funs..., you can use it to build your own blog, cms, etc...
 
 
