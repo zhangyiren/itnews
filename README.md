@@ -9,20 +9,20 @@ example:
 
 zms       
   &emsp;&emsp;--backend       
-  &emsp;&emsp;--codeception.yml       
+  &emsp;&emsp;&emsp;&emsp;--codeception.yml       
   &emsp;&emsp;&emsp;&emsp;......       
   &emsp;&emsp;--common       
-  &emsp;&emsp;--config       
-  &emsp;&emsp;--widgets      
-      ......    
-  --LICENSE    
-  --README.md    
-  --requirements.php    
+  &emsp;&emsp;&emsp;&emsp;--config       
+  &emsp;&emsp;&emsp;&emsp;--widgets      
+  &emsp;&emsp;&emsp;&emsp;......    
+  &emsp;&emsp;--LICENSE    
+  &emsp;&emsp;--README.md    
+  &emsp;&emsp;--requirements.php    
 
 ueditor    
-  --php    
-    --upload    
-      --image    
+  &emsp;&emsp;--php    
+  &emsp;&emsp;&emsp;&emsp;--upload    
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;--image    
        
        
        
