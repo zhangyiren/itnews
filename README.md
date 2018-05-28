@@ -10,11 +10,11 @@ example:
 zms/       
   &emsp;&emsp;backend/       
   &emsp;&emsp;&emsp;&emsp;codeception.yml       
-  &emsp;&emsp;&emsp;&emsp;&emsp;......       
+  &emsp;&emsp;&emsp;&emsp;......       
   &emsp;&emsp;common/       
   &emsp;&emsp;&emsp;&emsp;config       
   &emsp;&emsp;&emsp;&emsp;widgets      
-  &emsp;&emsp;&emsp;&emsp;&emsp;......    
+  &emsp;&emsp;&emsp;&emsp;......    
   &emsp;&emsp;LICENSE    
   &emsp;&emsp;README.md    
   &emsp;&emsp;requirements.php    
@@ -22,11 +22,11 @@ zms/
         
 ueditor/    
   &emsp;&emsp;php/    
-  &emsp;&emsp;&emsp;&emsp;upload/    
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;image/     
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;20170701/     
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3456.jpg          
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;......
+  &emsp;&emsp;&emsp;upload/    
+  &emsp;&emsp;&emsp;&emsp;&emsp;image/     
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;20170701/     
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3456.jpg          
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;......
        
        
        
